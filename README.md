@@ -9,6 +9,14 @@
 * anaconda?
 * Windows?!?
 
+Necessary: 
+* [Jupyter Notebook](http://jupyter.org/)
+* [Python Twitter Tools](http://mike.verdone.ca/twitter/)
+
+Nice To Have:
+* [NLTK](http://nltk.org/)
+* [h5py](http://www.h5py.org/)
+
 ### Developer Account and Application
 
 (Example/Trial Application?)
@@ -43,6 +51,6 @@
     * RT Networks
     * Basic SNA metrics (centrality, etc.)
 * Bots and Generators
-    * Ethics of Titter Bots
+    * Ethics of Twitter Bots
     * Markov bots
     * 
